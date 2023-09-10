@@ -1,1 +1,1 @@
-Open or download the index.html file to view the portfolio 
+Open the index.html file after cloning the repo to view the portfolio!
