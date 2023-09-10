@@ -1,1 +1,1 @@
-open or download the index.html file to view the portfolio 
+Open or download the index.html file to view the portfolio 
